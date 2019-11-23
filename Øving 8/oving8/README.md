@@ -1,3 +1,7 @@
+Husk å kjøre 'npm install' inne i oving8 for å kunne kjøre React-applikasjonen.
+
+---------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
