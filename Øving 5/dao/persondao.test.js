@@ -6,10 +6,10 @@ const runsqlfile = require("./runsqlfile.js");
 // GitLab CI Pool
 var pool = mysql.createPool({
   connectionLimit: 1,
-  host: "mysql.stud.iie.ntnu.no",
-  user: "martijni",
-  password: "rtjwkHFp",
-  database: "martijni",
+  host: "",
+  user: "",
+  password: "",
+  database: "",
   debug: false,
   multipleStatements: true
 });
