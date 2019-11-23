@@ -14,8 +14,9 @@ flow coverage --color src/app.js  # Check for missing Flow types
 
 npm start    # Run src/app.js through node with babel support
 
+```
 
 --------
-```
+
 Husk å kjøre npm install inne i flow-example. Dette for å få node_modules, som er nødvendig for å kunne kjøre.
 
