@@ -1,11 +1,15 @@
 var express = require("express"); var mysql = require("mysql");
 var app = express();
-var pool = mysql.createPool({ connectionLimit: 2,
-host: "mysql.stud.iie.ntnu.no", user: "martijni",
-password: "rtjwkHFp", database: "martijni", debug: false
+var pool = mysql.createPool({ 
+connectionLimit: 2,
+host: "", 
+user: "",
+password: "", 
+database: "", 
+debug: false
 });
 var bodyParser = require("body-parser"); 
-app.use(bodyParser.json()); // for å tolke JSON
+app.use(bodyParser.json()); // for å tolke JSON
 
 //Vise alle nyhetssakene
 app.get("/nyhetssak", (req, res) => { 
