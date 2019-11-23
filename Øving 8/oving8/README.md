@@ -1,4 +1,4 @@
-Husk å kjøre 'npm install' inne i oving8 for å kunne kjøre React-applikasjonen.
+Husk å kjøre `npm install` inne i oving8 for å kunne kjøre React-applikasjonen.
 
 ---------
 
