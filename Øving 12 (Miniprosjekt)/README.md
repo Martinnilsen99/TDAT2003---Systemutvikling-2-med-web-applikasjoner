@@ -1,21 +1,17 @@
-## Available Scripts
+## For running the application you will have to:
 
 In the project directory, you can run:
 
-### `npm install`
+## Install node_modules in both `server` and `client`
+You will have to have this folder for running the program. Github doesn't allow for such large folders, so just run `npm install` after you have cloned the application. <br />
 
-For installing the node_modules folder.<br />
-You will have to have this folder for running the program. Github doesn't allow for such large folders, so just run this after you have cloned the application. <br />
+### Start the backend server
 
-### `npm start`
+Go into the server folder in your terminal and run the script `npm start`. This uses Nodemon and will start up the server, managing the mySQL-requests for the website. <br />
 
-Starts the server.<br />
-The server will reload if you make edits because of Nodemon.<br />
+### Start the website on localHost
 
-### `flow`
-
-Runs flow on the server. For each time you make edits you may have to stop the server using
-`flow stop`, and run `flow` again. <br />
+Go into the client folder in your terminal and run the script `npm start`. This uses Nodemon and will start up the server, managing the mySQL-requests for the website. <br />
 
 ---
 
