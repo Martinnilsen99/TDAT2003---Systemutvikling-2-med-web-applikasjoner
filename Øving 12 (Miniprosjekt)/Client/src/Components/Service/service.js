@@ -1,11 +1,11 @@
 // @flow
 
 import axios from 'axios';
-//let ipAdresse = "localhost"; //Localhost
+let ipAdresse = "localhost"; //Localhost
 //let ipAdresse = "10.10.129.25"; //Hjemme
 //let ipAdresse:string = "10.22.158.126"; //Skolen
 //let ipAdresse = "172.20.10.3"; //Delt internett fra iPhone
-let ipAdresse = "192.168.110.113";
+//let ipAdresse = "192.168.110.113";
 
 //Sak når vi skal opprette til database, vil ikke ha tidspunkt, dato eller id da dette lages i mySQL
 export class sak { 
