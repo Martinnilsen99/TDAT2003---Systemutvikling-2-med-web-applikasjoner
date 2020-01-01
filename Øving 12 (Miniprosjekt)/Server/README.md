@@ -5,8 +5,8 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Starts the server.<br />
-The server will reload if you make edits because of Nodemon.<br />
+For installing the node_modules folder.<br />
+You will have to have this folder for running the program. Github doesn't allow for such large folders, so just run this after you have cloned the application. <br />
 
 ### `npm start`
 
