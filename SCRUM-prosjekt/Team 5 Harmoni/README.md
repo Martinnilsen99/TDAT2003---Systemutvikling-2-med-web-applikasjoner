@@ -1,4 +1,3 @@
-![Pipeline](https://gitlab.stud.iie.ntnu.no/olejlia/scrum-project---team-5---harmoni/badges/master/pipeline.svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -46,7 +45,8 @@ From the top-level repository folder:
 ```
 cd server
 ```
-## `Follow instructions here before continuing:` [Installation](https://gitlab.stud.iie.ntnu.no/olejlia/scrum-project---team-5---harmoni/-/wikis/System/Installasjon)
+## `Follow instructions here before continuing:` [Installation]
+Was a link to NTNU GitLab-repo here, with a wiki containing an installation manual
 
 ```
 npm start
