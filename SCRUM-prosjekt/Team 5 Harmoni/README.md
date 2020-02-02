@@ -33,7 +33,7 @@ $ npm --version
 ### `Install`
 ```
 git clone https://github.com/Martinnilsen99/TDAT2003---Systemutvikling-2-med-web-applikasjoner.git
-cd "Scrum-prosjekt/Team 5 Harmoni"
+cd "SCRUM-prosjekt/Team 5 Harmoni"
 cd server
 npm install
 cd ../client
