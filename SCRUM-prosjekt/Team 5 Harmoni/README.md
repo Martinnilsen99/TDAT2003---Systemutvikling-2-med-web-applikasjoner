@@ -32,7 +32,8 @@ $ npm --version
 
 ### `Install`
 ```
-git clone https://gitlab.stud.idi.ntnu.no/olejlia/scrum-project---team-5---harmoni.git
+git clone https://github.com/Martinnilsen99/TDAT2003---Systemutvikling-2-med-web-applikasjoner.git
+cd "Scrum-prosjekt/Team 5 Harmoni"
 cd server
 npm install
 cd ../client
@@ -41,7 +42,7 @@ npm install
 
 ## `Run application`
 ### `Start the server`
-From the top-level repository folder:
+From the "Team 5 Harmoni"-folder:
 ```
 cd server
 ```
@@ -53,7 +54,7 @@ npm start
 ```
 
 ### `Start the client`
-From the top-level repository folder:
+From the "Team 5 Harmoni"-folder:
 ```
 cd client
 npm start
